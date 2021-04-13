@@ -1,0 +1,49 @@
+h1{
+    font-size:70px;
+    margin-bottom: 80px;
+    margin-left:50px;
+    margin-top:60px;
+    color:#444444
+}
+.header{
+    color:blue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color:hotpink;
+}
+.title{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:#36a047;
+}
+.camel{
+    padding-left:60px;
+    padding-bottom:40px;
+    background-color:#36BA;
+}
+.chameleon{
+    padding-left:60px;
+    padding-bottom:40px;
+    background-color: darkslategrey;
+}
+.pigeon{
+    padding-left:60px;
+    padding-bottom:40px;
+    background-color:#345678;
+}
+.bear{
+    padding-left:60px;
+    padding-bottom:40px;
+    background-color:#925764;
+}
+.panda{
+    padding-left:60px;
+    padding-bottom:40px;
+    background-color:#675489;
+}
+.cicada{
+    padding-left:60px;
+    padding-bottom:40px;
+    background-color:#576349;
+}
